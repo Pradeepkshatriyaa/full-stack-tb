@@ -1,2 +1,2 @@
 # full-stack-tb
-today we are going to learn git
+today we are gonna learn<br> about learn git
